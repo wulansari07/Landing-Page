@@ -1,0 +1,43 @@
+html{
+	scroll-behavior : smooth;
+}
+
+.bg{
+    background-color : seashell;
+}
+
+.a{
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 100%;
+}
+
+.b{
+    color: purple;
+    font-family: Open Sans;
+    font-size: 50px;
+}
+
+.c{
+    color: mediumvioletred;
+    font-family: Open Sans;
+    font-size: 120%;
+}
+
+.d{
+    color: whitesmoke;
+    font-family: Open Sans;
+    background-color: mediumvioletred;
+    font-size: 130%;
+}
+
+
+.lans{
+    color: mediumvioletred;
+    font-family: adelline personal use only;
+    font-size: 42px;
+}
+
+.link{
+    color:purple;
+}
